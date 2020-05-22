@@ -1,26 +1,4 @@
-# The Template Manifesto
-
-Start a project from scratch although important for learning purposes it is not a must when we need to quickly start a project.
-
-## The goal
-
-To find, list and advertise templates and boilerplates for software projects.
-
-### Find
-
-There is no specific search for templates in github, so the best way of doing it is search for well know keywords and look for the most used or starred projects.
-
-Even filtering out, sometimes the number of results makes impossible to check every result. If you think there is some great template you know please let us know by sending a email: <jose.eduardo.mco@gmail.com>
-
-### List
-
-Simply projects linking to their respectives repos helps litle to promote their jobs. 
-
-So we've fork the repos to add good keywords, good info, good readmes and push it back to the original repos.
-
-### Advertise
-
-We hope to extend this blog and create other ways to advertise this list of projects. If you have any idea keep in touch!
+# Pairwise Testing
 
 ## Credits 
 
@@ -28,7 +6,7 @@ All projects are a colletive work and its crucial to give credit to all contribu
 
 Thanks to the following contributors:
 
-- [iconella](https://www.iconfinder.com/iconella) organization icon
+- [Freepik](https://www.flaticon.com/authors/freepik) who made the icon available on <https://www.flaticon.com/>
 
 - [@orderedlist](https://github.com/orderedlist) for the greate [minimal theme](https://github.com/orderedlist/minimal).
 
