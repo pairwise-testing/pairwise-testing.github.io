@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 
-title: Template Home
-description: A home to all project templates you need
+title: Pairwise Testing
+description: A collection of Pairwise test case generators implemented in several languages.
 logo: assets/img/logo.png
